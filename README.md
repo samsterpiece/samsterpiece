@@ -22,4 +22,3 @@ This GitHub is to display my "Trek into Tech"--As I learn technology and make pr
 
 
 
--Feel free to connect with me on <a href="https://www.linkedin.com/in/samanthabadeau/">LinkedIn!</a>
